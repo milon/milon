@@ -10,6 +10,6 @@ I love to hang out with my buddies. I used to go to [Koratkol University](https:
 
 Currently, I am working for [Flixbus](https://www.flixbus.com/) as a Senior Full-Stack Software Engineer and living in Berlin, Germany. I am also an admin of [phpXperts](https://www.facebook.com/groups/pxperts/), the largest developer community of Bangladesh.
 
-Recently I become a father of a beautiful prince.
+I am the father of beautiful prince and princess.
 
 I am a proud Bangladeshi 🇧🇩.
