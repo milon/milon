@@ -8,7 +8,7 @@ I have interest in every single thing on the earth except formal education. Love
 
 I love to hang out with my buddies. I used to go to [Koratkol University](https://www.facebook.com/koratkol/) regularly, the best hangout place on earth. Unfortunately, I can't do it any more because I moved out from Bangladesh.
 
-Currently, I am working for [Flixbus](https://www.flixbus.com/) as a Senior Full-Stack Software Engineer and living in Berlin, Germany. I am also an admin of [phpXperts](https://www.facebook.com/groups/pxperts/), the largest developer community of Bangladesh.
+Currently, I am working for [Amazon](https://www.amazon.com/) as a Software Development Engineer II and living in Toronto, Ontario, Canada. I am also an admin of [phpXperts](https://www.facebook.com/groups/pxperts/), the largest developer community of Bangladesh.
 
 I am the father of beautiful prince and princess.
 
