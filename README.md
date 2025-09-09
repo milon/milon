@@ -8,7 +8,7 @@ I have an interest in every single thing on the earth except formal education. L
 
 I love to hang out with my buddies. I used to go to [Koratkol University](https://www.facebook.com/koratkol/) regularly, the best hangout place on earth. Unfortunately, I can't do it anymore because I moved out of Bangladesh.
 
-Currently, I am working for [Amazon](https://www.amazon.com/) as a Software Development Engineer II and living in Vancouver, British Columbia, Canada. I am also an admin of [phpXperts](https://www.facebook.com/groups/pxperts/), the largest developer community in Bangladesh.
+Currently, I am working as a Software Development Engineer and living in a suburb of Vancouver, British Columbia, Canada. I am also an admin of [phpXperts](https://www.facebook.com/groups/pxperts/), the largest developer community in Bangladesh.
 
 I am the father of a beautiful prince and princess.
 
